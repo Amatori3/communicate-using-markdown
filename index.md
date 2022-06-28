@@ -4,6 +4,10 @@
 
 ## Header 2
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 ### Header 3
 
